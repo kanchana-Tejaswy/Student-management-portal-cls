@@ -1,0 +1,6 @@
+1
+STU-001
+John Doe
+Computer Science
+pass123
+8
